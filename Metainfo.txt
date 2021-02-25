@@ -1,0 +1,12 @@
+Name of QuantLet: CBR-FRD
+
+Published in: 
+
+Description: Explainable ML method Case-based Reasoning for financial risk detection
+
+Keywords: data-driven CBR system, financial risk detection, explainable AI
+
+Author: Wei Li, Georgios Sermpinis, Florentina Paraschiv
+
+
+
